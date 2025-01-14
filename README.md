@@ -11,4 +11,6 @@ This README file is stored in a newly initialized projectrepo for Week 2 Require
 \
 The author of this file is Cai Hongliang\
 \
-The course name is Full Stack Development with AI by NUS School of Computing.}
+The course name is Full Stack Development with AI by NUS School of Computing.\
+\
+MODIFIED}
